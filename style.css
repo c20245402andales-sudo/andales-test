@@ -26,3 +26,30 @@
  #contact {
      color: orange;
  }
+
+ nav {
+     display: flex;
+     justify-content: space-between;
+     align-content: center;
+     margin-left: 30px;
+     margin-right: 30px;
+ }
+
+ nav ul {
+     display: flex;
+     gap: 20px;
+ }
+
+ main {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+     padding: 20px;
+ }
+
+ main section {
+     flex: 1;
+     min-width: 300px;
+     border: 1px solid black;
+     padding: 20px;
+ }
