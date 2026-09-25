@@ -39,7 +39,11 @@
     }
 
     #projects {
+<<<<<<< HEAD
         background-color: orange;
+=======
+        background-color: aqua;
+>>>>>>> cold-theme
     }
 
     form {
