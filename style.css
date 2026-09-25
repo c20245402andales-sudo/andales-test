@@ -38,6 +38,10 @@
         padding: 20px
     }
 
+    #projects {
+        background-color: orange;
+    }
+
     form {
         display: flex;
         flex-direction: column;
